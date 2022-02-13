@@ -1,0 +1,49 @@
+.clear{
+    clear:both;
+}
+.google-icon{
+    margin: 10px auto;
+    width: fit-content;
+}
+.search-box-gray{
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    margin: -10px 40px 0px 45px;
+}
+.left-box{
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 35%;
+    height: 70px;
+    margin-left:45px;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: -15px;
+    margin-right: 3px;
+}
+.middle-box{
+    background-color: rgb(112, 204, 194);
+    float: left;
+    width: 18%;
+    text-align: center;
+    height: 70px;
+    font-size: small;
+    padding-top: 10px;
+    margin-top: -15px;
+    margin-right: 3px;
+
+}
+.right-box{
+    background-color: rgb(98, 179, 170);
+    width: 41%;
+    float: left;
+    font-size: small;    
+    text-align: center;
+    height: 80px;
+    margin-top: -15px;
+}
+
+.rights{
+    text-align: center;
+    font-size: small;
+}
